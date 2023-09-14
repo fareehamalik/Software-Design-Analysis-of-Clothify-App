@@ -10,7 +10,7 @@
 - Alagu Vallikkannan
 
 
-The purpose of this assignment was to act as Project Managers and System/Business Analysts for a software application of our choice. Our team detailed 5 stages of the development of the app for a hypothetical brand "Clothify". Our goal was to design and develop an online shopping experience where shopping is made convenient through an easy-to-use app. This mobile app is hypothetically available on iOS and Android allows customers to browse products and make purchases, track their existing purchases as well as add items to their favorites folder for later, and subscribe to the blog for exclusive opportunities and coupons.
+The purpose of this assignment was to act as Project Managers and System/Business Analysts for a software application of our choice. Our team detailed 5 stages of the development of the app for a hypothetical brand "Clothify". Our goal was to design and develop an online shopping experience where shopping is made convenient through an easy-to-use app. This hypothetical mobile app is available on iOS and Android and allows customers to browse products and make purchases, track their existing purchases as well as add items to their favorites folder for later, and subscribe to the blog for exclusive opportunities and coupons.
 
 We implemented several project management techniques learned throughout the duration of the course to complete this project, most notably the Waterfall and Agile methodologies.
 
@@ -38,5 +38,5 @@ Screenshots of the relevant diagrams are provided below. For a more detailed exp
 ![Highlevel_StateDiagram_FinalReport](https://github.com/FareehaM/Software-Design-Analysis-of-Clothify-App/assets/90854782/8ae6e4f7-30d9-4120-91e4-80a305a811dc)
 
 ### Package Diagram
-![Highlevel_PacakageDiagram_Finalreport drawio](https://github.com/FareehaM/Software-Design-Analysis-of-Clothify-App/assets/90854782/48efbacb-7965-4077-ba72-870d370d1804)
+![Highlevel_PacakageDiagram_Finalreport drawio](https://github.com/FareehaM/Software-Design-Analysis-of-Clothify-App/assets/90854782/8b748a39-11f6-4a28-9bf1-ba46f07a9295)
 
