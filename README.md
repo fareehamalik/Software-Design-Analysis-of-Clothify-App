@@ -22,21 +22,25 @@ Screenshots of the relevant diagrams are provided below. For a more detailed exp
 ![img1github](https://github.com/fareehamalik/Software-Design-Analysis-of-Clothify-App/assets/90854559/2270da18-3cb4-4d6d-b395-dfe12bb18bde)
 
 ### High-level Fully Dressed Use Case 
-![Highlevel_FullDressed_FinalReport](https://github.com/FareehaM/Software-Design-Analysis-of-Clothify-App/assets/90854782/c623be20-09e6-4c0c-a0c2-da0a7785eb20)
+![img2github](https://github.com/fareehamalik/Software-Design-Analysis-of-Clothify-App/assets/90854559/4f9845bb-19a6-457b-b851-4a174c4b70bc)
+
 
 ### High-level Domain Model
-![Highlevel_DomainModel_FinalReport](https://github.com/FareehaM/Software-Design-Analysis-of-Clothify-App/assets/90854782/717c9ad4-f75b-41f0-ab17-af949cbe3e15)
+![img3gitub](https://github.com/fareehamalik/Software-Design-Analysis-of-Clothify-App/assets/90854559/12fce2b2-2304-4a45-bdbc-11d45cf491fa)
+
 
 
 ### High-level Interaction Diagram 
-![Highlevel_InteractionDiagram_Finalreport](https://github.com/FareehaM/Software-Design-Analysis-of-Clothify-App/assets/90854782/d632a1e3-8b5b-446a-b25d-e6ef208083c8)
+![img4github](https://github.com/fareehamalik/Software-Design-Analysis-of-Clothify-App/assets/90854559/960a4a3a-e5b6-4554-b92e-baec424c2795)
 
 ### High-level Design Class Diagram 
-![Highlevel_DesignClassDiagram_FinalReport](https://github.com/FareehaM/Software-Design-Analysis-of-Clothify-App/assets/90854782/e8a9565d-b6ad-4d43-a5f1-943576b21313)
+![img5github](https://github.com/fareehamalik/Software-Design-Analysis-of-Clothify-App/assets/90854559/e3097461-c698-4c2e-8e0d-3bc1d44d819a)
+
 
 ### High-level State Diagram 
-![Highlevel_StateDiagram_FinalReport](https://github.com/FareehaM/Software-Design-Analysis-of-Clothify-App/assets/90854782/8ae6e4f7-30d9-4120-91e4-80a305a811dc)
+![img6github](https://github.com/fareehamalik/Software-Design-Analysis-of-Clothify-App/assets/90854559/5f5dd746-1112-40cc-bb46-a0787f364ce0)
+
 
 ### Package Diagram
-![Highlevel_PacakageDiagram_Finalreport drawio](https://github.com/FareehaM/Software-Design-Analysis-of-Clothify-App/assets/90854782/8b748a39-11f6-4a28-9bf1-ba46f07a9295)
+![img7github](https://github.com/fareehamalik/Software-Design-Analysis-of-Clothify-App/assets/90854559/58b65307-4532-4f23-88c7-e0940c7088ae)
 
